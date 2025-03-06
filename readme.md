@@ -1,4 +1,4 @@
-https://sandrodevx.github.io/Generador-De-Arte-Abstracto/
+[View Live Page](https://sandrodevx.github.io/Generador-De-Arte-Abstracto/)
 
 # Interactive Abstract Art Generator 🎨
 
